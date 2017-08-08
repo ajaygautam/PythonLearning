@@ -8,15 +8,15 @@ __pycache__/
 
 # Distribution / packaging
 .Python
-env/
-build/
+# env/
+# build/
 develop-eggs/
-dist/
-downloads/
-eggs/
+# dist/
+# downloads/
+# eggs/
 .eggs/
-lib/
-lib64/
+# lib/
+# lib64/
 parts/
 sdist/
 var/
@@ -59,7 +59,7 @@ instance/
 .webassets-cache
 
 # Scrapy stuff:
-.scrapy
+# .scrapy
 
 # Sphinx documentation
 docs/_build/
